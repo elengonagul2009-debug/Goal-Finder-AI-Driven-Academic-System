@@ -1,0 +1,20 @@
+{
+  "num_features": [
+    "percentage",
+    "maths",
+    "science",
+    "english"
+  ],
+  "cat_features": [
+    "fav_subject",
+    "interest",
+    "goal"
+  ],
+  "classes": [
+    "Arts",
+    "Bio-Maths",
+    "CS-Maths",
+    "Commerce",
+    "Vocational/Other"
+  ]
+}
